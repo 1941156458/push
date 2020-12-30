@@ -3,9 +3,3 @@
 add func1
 
 add func2
-
-<<<<<<< HEAD
-code conclick2
-=======
-code conclick1
->>>>>>> 794d5c09daf4058c645c680960977c894ff6c41b
